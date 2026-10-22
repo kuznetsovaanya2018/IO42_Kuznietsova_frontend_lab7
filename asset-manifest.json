@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IO42_Kuznietsova_frontend_lab7/static/css/main.6018653f.css",
+    "main.js": "/IO42_Kuznietsova_frontend_lab7/static/js/main.e3b3bb49.js",
+    "static/js/453.35732811.chunk.js": "/IO42_Kuznietsova_frontend_lab7/static/js/453.35732811.chunk.js",
+    "static/media/orange.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/orange.31b09c54267404df7614.jpg",
+    "static/media/kyiv.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/kyiv.28bbbb2ebb41ff029814.jpg",
+    "static/media/grape.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/grape.9aa05c64d8d6600f16e6.jpg",
+    "static/media/pear.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/pear.45feba9cd9ae64c87183.jpg",
+    "static/media/peach.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/peach.5e00bbbfa254d65a426c.jpg",
+    "static/media/lemon.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/lemon.7d5d8f7ea36c3d42892d.jpg",
+    "static/media/apple.jpg": "/IO42_Kuznietsova_frontend_lab7/static/media/apple.eb2cdfb4839352c6a5fc.jpg",
+    "index.html": "/IO42_Kuznietsova_frontend_lab7/index.html",
+    "main.6018653f.css.map": "/IO42_Kuznietsova_frontend_lab7/static/css/main.6018653f.css.map",
+    "main.e3b3bb49.js.map": "/IO42_Kuznietsova_frontend_lab7/static/js/main.e3b3bb49.js.map",
+    "453.35732811.chunk.js.map": "/IO42_Kuznietsova_frontend_lab7/static/js/453.35732811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6018653f.css",
+    "static/js/main.e3b3bb49.js"
+  ]
+}
